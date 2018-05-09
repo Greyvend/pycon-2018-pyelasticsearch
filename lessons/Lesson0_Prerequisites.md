@@ -23,7 +23,7 @@ brew services start kibana
 
 3. Clone the `pycon-2018-pyelasticsearch` repository to your computer by running:
 ```
-git clone github.com/julieqiu/pycon-2018-pyelasticsearch
+git clone https://github.com/julieqiu/pycon-2018-pyelasticsearch.git
 ```
 
 4. In root of the repository, set up a virtualenv:
